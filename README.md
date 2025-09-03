@@ -1,5 +1,9 @@
 # FruitBox Shop (React + Vite + Tailwind)
 
+Truy cập web tại:
+https://fruit-vh-shop-jnvv.vercel.app/
+
+
 Giao diện đặt hộp trái cây **tối ưu và tách component rõ ràng**. Bao gồm:
 - Grid sản phẩm, tìm kiếm, lọc theo danh mục
 - Giỏ hàng (Cart Drawer) trượt
