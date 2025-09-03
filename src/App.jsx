@@ -94,7 +94,7 @@ export default function App() {
 
       {/* Floating Chat to Facebook */}
       <a
-        href="https://www.facebook.com/leuan123/?locale=vi_VN"
+        href="https://m.me/leuan123"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed bottom-20 right-4 z-40 inline-flex items-center gap-2 rounded-full bg-lime-600 px-4 py-3 text-sm font-semibold text-white shadow-lg hover:bg-lime-700"
