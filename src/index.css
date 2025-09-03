@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: nicer scrollbars */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #84cc16 #e5e7eb; /* lime-500 on neutral-200 */
+}
